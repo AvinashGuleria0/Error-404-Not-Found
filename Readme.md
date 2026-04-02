@@ -1,3 +1,5 @@
+<img src="assests/ReadmeImage.png" alt="Readme Image">
+
 Custom 404 Error Page - Avinash's Zone
 
 A stylish, animated, space-themed 404 Error Page built with HTML, CSS, JavaScript. Hosted on Netlify.
